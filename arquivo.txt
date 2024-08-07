@@ -1,5 +1,1 @@
-ls
-git status
-../
-
-git add arquivo.txt
+escrevendo a primeira linha do meu arquivo
